@@ -27,7 +27,7 @@ Install dependencies: `pip install -r requirements.txt`
 `python main.py`
 
 
-Notes
+### Notes
 
 * This script submits actual Google Forms — avoid testing on real/final forms unless intended
 
