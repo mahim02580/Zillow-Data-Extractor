@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-zillow_url = "ZILLOW_PAGE_URL"
-form_url = "YOUR_FORM_URL"
+zillow_url = "ZILLOW_PAGE_URL (with specified location)"
+form_url = "FORM_URL"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
