@@ -28,11 +28,8 @@ Install dependencies: `pip install -r requirements.txt`
 
 
 ### Notes
-
+* Form fields are: Address, Price Per Month, Link
 * This script submits actual Google Forms — avoid testing on real/final forms unless intended
-
 * Add time.sleep() delays if your internet is slow as Selenium may lag
-
 * Use custom headers to avoid some anti-scraping filters
-
 _This script might not work if Zillow changes website structure!_
